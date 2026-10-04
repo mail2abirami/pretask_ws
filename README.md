@@ -1,2 +1,2 @@
 test project
-i am make some changes
+i have done some changes, and my team member made some changes too
